@@ -10,7 +10,7 @@ Am urmat mai multi pasi in realizarea acestui poriect:
 -	Incarcarea elementelor 3D pe PCB
 -	Crearea bateriei si a display-ului
 -	Inserarea bateriei, display-ului si a PCB-ului incarcasa 3D
-
+  
 # Functionalitati hardware
 ## ESP32-C6 
 Este microcontroller-ul , el controleaza toate componentele si gestioneaza datele.
